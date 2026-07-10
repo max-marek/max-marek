@@ -16,7 +16,8 @@ Since GitHub doesn't believe in folders, I've created an "organization" to keep 
 │   │   │   └── 📝 <a href="https://github.com/max-marek-projects/url_shortener">url_shortener</a>
 │   │   └── 🎸 <a href="https://github.com/orgs/max-marek-projects/teams/services-python-django">services/python/django</a>
 │   └── 🦫 <a href="https://github.com/orgs/max-marek-projects/teams/services-go">services/go</a>
-│       └── 📝 <a href="https://github.com/max-marek-projects/shortener">shortener</a>
+│       ├── 📝 <a href="https://github.com/max-marek-projects/shortener">shortener</a>
+│       └── 📝 <a href="https://github.com/max-marek-projects/loyalty-system">loyalty-system</a>
 │
 ├── 📱 <a href="https://github.com/orgs/max-marek-projects/teams/apps">apps</a>
 │   └── 🤖 <a href="https://github.com/orgs/max-marek-projects/teams/apps-android">apps/android</a>
@@ -28,8 +29,8 @@ Since GitHub doesn't believe in folders, I've created an "organization" to keep 
 │       └── 📝 <a href="https://github.com/max-marek-projects/fulldoc">fulldoc</a>
 |
 ├── 🤖 <a href="https://github.com/orgs/max-marek-projects/teams/bots">bots</a>
-│   └── 🐍 <a href="https://github.com/orgs/max-marek-projects/teams/bots-telegram">bots/telegram</a>
-|       └── 📝 <a href="https://github.com/max-marek-projects/teams/bots-telegram-python">bots/telegram/python</a>
+│   └── 📝 <a href="https://github.com/orgs/max-marek-projects/teams/bots-telegram">bots/telegram</a>
+|       └── 🐍 <a href="https://github.com/max-marek-projects/teams/bots-telegram-python">bots/telegram/python</a>
 │           └── 📝 <a href="https://github.com/max-marek-projects/hw_notifier">hw_notifier</a>
 │
 └── 📜 <a href="https://github.com/orgs/max-marek-projects/teams/scripts">scripts</a>
