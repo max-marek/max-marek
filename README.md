@@ -16,6 +16,7 @@ Since GitHub doesn't believe in folders, I've created an "organization" to keep 
 │   │   │   └── 📝 <a href="https://github.com/max-marek-projects/url_shortener">url_shortener</a>
 │   │   └── 🎸 <a href="https://github.com/orgs/max-marek-projects/teams/services-python-django">services/python/django</a>
 │   └── 🦫 <a href="https://github.com/orgs/max-marek-projects/teams/services-go">services/go</a>
+│       ├── 📝 <a href="https://github.com/max-marek-projects/custodia">custodia</a>
 │       ├── 📝 <a href="https://github.com/max-marek-projects/shortener">shortener</a>
 │       └── 📝 <a href="https://github.com/max-marek-projects/loyalty-system">loyalty-system</a>
 │
