@@ -18,6 +18,7 @@ Since GitHub doesn't believe in folders, I've created an "organization" to keep 
 │   └── 🦫 <a href="https://github.com/orgs/max-marek-projects/teams/services-go">services/go</a>
 │       ├── 📝 <a href="https://github.com/max-marek-projects/custodia">custodia</a>
 │       ├── 📝 <a href="https://github.com/max-marek-projects/shortener">shortener</a>
+│       ├── 📝 <a href="https://github.com/max-marek-projects/avatars-service">avatars-service</a>
 │       └── 📝 <a href="https://github.com/max-marek-projects/loyalty-system">loyalty-system</a>
 │
 ├── 📱 <a href="https://github.com/orgs/max-marek-projects/teams/apps">apps</a>
